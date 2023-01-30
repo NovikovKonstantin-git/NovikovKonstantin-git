@@ -27,3 +27,8 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" /> 
     </a>
   </div>
+  
+  ---
+  
+  ### 💻 Технологии:
+    <img src="https://www.flaticon.com/free-icon/git_4494748?term=git&page=1&position=4&origin=search&related_id=4494748" title="git" alt="git" width="40" height="40">
