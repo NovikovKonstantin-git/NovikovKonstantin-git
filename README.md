@@ -38,6 +38,8 @@
     <img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" title="git" alt="git" width="40" height="40">
   </div>
   
+  ---
+  
   ### :tools: Инструменты:
   
   <div>
