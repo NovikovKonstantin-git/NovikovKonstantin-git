@@ -31,4 +31,6 @@
   ---
   
   ### 💻 Технологии:
+  <div>
     <img src="https://www.flaticon.com/free-icon/git_4494748?term=git&page=1&position=4&origin=search&related_id=4494748" title="git" alt="git" width="40" height="40">
+  </div>
