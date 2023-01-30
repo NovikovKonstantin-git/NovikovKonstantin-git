@@ -51,5 +51,5 @@
 
 ## 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/NovikovKonstantin-git)
+![codewars](https://www.codewars.com/users/NovikovKonstantin-git/badges/large)
 
