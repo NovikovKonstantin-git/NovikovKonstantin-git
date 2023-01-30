@@ -44,5 +44,5 @@
   
   <div>
     <img src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png" title="pycharm" alt="pycharm" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="pycharm" alt="pycharm" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vs code" alt="vs code" width="40" height="40">
   </div>
