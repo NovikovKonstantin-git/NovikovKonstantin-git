@@ -40,8 +40,9 @@
   
   ---
   
-  ### :tools: Инструменты:
+  ### 🛠️ Инструменты:
   
   <div>
+    <img src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png" title="pycharm" alt="pycharm" width="40" height="40">
     <img src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png" title="pycharm" alt="pycharm" width="40" height="40">
   </div>
