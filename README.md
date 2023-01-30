@@ -31,9 +31,15 @@
   ---
   
   ### 💻 Технологии:
+  
   <div>
     <img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" title="python" alt="python" width="40" height="40">
-    <img src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png" title="pycharm" alt="pycharm" width="40" height="40">
     <img src="https://pics.freeicons.io/uploads/icons/png/9686895801536233213-512.png" title="django" alt="django" width="40" height="40">
     <img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" title="git" alt="git" width="40" height="40">
+  </div>
+  
+  ### :tools: Инструменты:
+  
+  <div>
+    <img src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png" title="pycharm" alt="pycharm" width="40" height="40">
   </div>
