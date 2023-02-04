@@ -4,7 +4,7 @@
 
 ## :man_technologist: Обо мне:
 
-## Я начинающий веб-разрабочик. Мой путь в it начался с момента начала получения образования программиста. В процессе обучения я познакомился с разными языками и технологиями: C++, Java, C#, Html, Css, JavaScript, Asp.Net, Python, Django, Node.js, MySql. Но больше всего меня зацепил язык Python и веб-разработка! C начала 2022 года я начал проходить различные курсы на Stepik и YouTube. Очень сильно замотивирован в профессии python back-end developer!
+## I am a beginner web developer. My journey into it started from the moment I started getting a programmer's education. In the process of learning, I got acquainted with different languages and technologies, but most of all I was hooked by the Python and web development! From the beginning of 2022, I started taking various courses on Stepik and YouTube. Very motivated in the python back-end developer profession!
 
 - :telescope: Усиленно изучаю веб-разработку, технологии, инструменты!
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social Networks:
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/konstantin-novikov-a26380240/" target"_blank">
@@ -30,7 +30,7 @@
   
   ---
   
-  ### 💻 Технологии:
+  ### 💻 Technologies:
   
   <div>
     <img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" title="python" alt="python" width="40" height="40">
@@ -41,7 +41,7 @@
   
   ---
   
-  ### 🛠️ Инструменты:
+  ### 🛠️ Tools:
   
   <div>
     <img src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png" title="pycharm" alt="pycharm" width="40" height="40">
