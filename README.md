@@ -1,16 +1,16 @@
-## Привет, меня зовут Константин!
+## Hello, my name is Konstantin!
 
 ---
 
-## :man_technologist: Обо мне:
+## :man_technologist: About me:
 
 ## I am a beginner web developer. My journey into it started from the moment I started getting a programmer's education. In the process of learning, I got acquainted with different languages and technologies, but most of all I was hooked by the Python and web development! From the beginning of 2022, I started taking various courses on Stepik and YouTube. Very motivated in the python back-end developer profession!
 
-- :telescope: Усиленно изучаю веб-разработку, технологии, инструменты!
+- :telescope: I am intensively studying web development, technologies, tools!
 
-- :zap: Хочу освоить эту профессию и найти работу.
+- :zap: I want to learn this profession and find a job.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat%logo=Telegram%logoColor=white)](https://t.me/wizyao) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat%logo=Gmail%logoColor=white)](mailto:kostya4py@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat%logo=Telegram%logoColor=white)](https://t.me/wizyao) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat%logo=Gmail%logoColor=white)](mailto:kostya4py@gmail.com)
 
 ---
 
